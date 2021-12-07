@@ -10,13 +10,7 @@ const Nav = () => {
               <Link className="links" to="/dashboard">Dashboard</Link>
             </li>
             <li>
-              <Link className="links" to="/dashboard/bodyweight">BodyWeight</Link>
-            </li>
-            <li>
-              <Link className="links" to="/dashboard/homegym">Home Gym</Link>
-            </li>
-            <li>
-              <Link className="links" to="/dashboard/nutrition">Nutrition</Link>
+              <Link className="links" to="/dashboard/workout">Workout</Link>
             </li>
           </ul>
         </nav>
